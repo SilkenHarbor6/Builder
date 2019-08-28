@@ -1,0 +1,7 @@
+c:\users\bryan.palmafgksa\source\repos\BuilderPatron\BuilderPatron\bin\Debug\BuilderPatron.exe.config
+c:\users\bryan.palmafgksa\source\repos\BuilderPatron\BuilderPatron\bin\Debug\BuilderPatron.exe
+c:\users\bryan.palmafgksa\source\repos\BuilderPatron\BuilderPatron\bin\Debug\BuilderPatron.pdb
+c:\users\bryan.palmafgksa\source\repos\BuilderPatron\BuilderPatron\obj\Debug\BuilderPatron.csprojAssemblyReference.cache
+c:\users\bryan.palmafgksa\source\repos\BuilderPatron\BuilderPatron\obj\Debug\BuilderPatron.csproj.CoreCompileInputs.cache
+c:\users\bryan.palmafgksa\source\repos\BuilderPatron\BuilderPatron\obj\Debug\BuilderPatron.exe
+c:\users\bryan.palmafgksa\source\repos\BuilderPatron\BuilderPatron\obj\Debug\BuilderPatron.pdb
